@@ -1,0 +1,10 @@
+.pomodoro-maincontainer {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.formInputTimer {
+  flex-direction: column;
+  width: 20em;
+}

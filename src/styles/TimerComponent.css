@@ -1,0 +1,28 @@
+.main-container {
+  display: flex;
+  justify-content: center;
+  border-color: #083344;
+}
+
+.main-container > div {
+  padding: 1em;
+  font-size: 2rem;
+  margin: 0.1em;
+  border-radius: 5px;
+}
+
+.active {
+  background-color: #020617;
+  color: white;
+}
+
+.break {
+  background-color: #083344;
+  color: white;
+}
+
+#colon {
+  padding: 1em 0;
+  background-color: white;
+  color: black;
+}
